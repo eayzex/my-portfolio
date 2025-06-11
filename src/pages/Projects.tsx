@@ -32,7 +32,7 @@ const Projects = () => {
       title: "MorocStay - Hotel Booking Platform",
       description: "MorocStay is a smart and seamless hotel booking platform designed to connect travelers with the best stays across Morocco. Whether you're planning a luxurious getaway, a family vacation, or a spontaneous weekend escape, MorocStay offers a curated selection of accommodations to suit every style and budget.",
       technologies: ["Vue.js", "Chart.js", "Weather API", "Sass"],
-      image: "https://cdn.vectorstock.com/i/preview-2x/83/31/hotel-search-engine-with-on-world-map-vector-27178331.webp",
+      image: "hhttps://sdmntpritalynorth.oaiusercontent.com/files/00000000-7b80-6246-8b05-7a7c9bc3150f/raw?se=2025-06-11T21%3A17%3A55Z&sp=r&sv=2024-08-04&sr=b&scid=710f529a-fb38-5a92-b60b-bf0493006a7e&skoid=82a3371f-2f6c-4f81-8a78-2701b362559b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-11T20%3A13%3A39Z&ske=2025-06-12T20%3A13%3A39Z&sks=b&skv=2024-08-04&sig=FKjyuwIe4i5Awz5I2nbRZKCDoYzvLUorRIC%2BY8Gvcpk%3Dp",
       liveUrl: "#",
       githubUrl: "#",
     },
