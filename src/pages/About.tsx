@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { Card, CardContent } from "@/components/ui/card";
-import { Code, Palette, Zap, Users, Trophy, Target } from "lucide-react";
+import { Code, Palette, Zap, Users, Trophy, Target, Clock, Lightbulb } from "lucide-react";
 
 const About = () => {
   const [ref, inView] = useInView({
@@ -31,19 +31,19 @@ const About = () => {
 
   const achievements = [
     {
-      icon: Code,
-      title: "Full-Stack Expertise",
-      description: "Mastery in modern web technologies and frameworks"
-    },
-    {
-      icon: Palette,
-      title: "UI/UX Design",
-      description: "Creating beautiful and intuitive user experiences"
+      icon: Lightbulb,
+      title: "Creative Thinker",
+      description: "Always finding new angles to approach challenges..  "
     },
     {
       icon: Zap,
-      title: "Performance Optimization",
-      description: "Building fast, scalable, and efficient applications"
+      title: "Quick Learner",
+      description: " Adapts fast in dynamic environments"
+    },
+    {
+      icon: Clock, // Updated icon here
+      title: "Time Manager",
+      description: "Delivers results without missing deadlines."
     },
     {
       icon: Users,
