@@ -22,6 +22,14 @@ const Projects = () => {
       githubUrl: "https://github.com/eayzex/tridlle-final-project-fr.git",
     },
     {
+      title: "1 CONFIRMED - Independent web platform",
+      description: "1CONFIRMED is a dedicated independent web platform tailored for hotel bookings in Morocco. It offers travelers a seamless and intelligent experience to discover and reserve accommodations that suit all preferences—from luxury resorts to budget-friendly options.",
+      technologies: ["React", "Vite", "TypeScript", "Node.js", "Express", "MongoDB"],
+      image: "https://screendy-cdn.fra1.cdn.digitaloceanspaces.com/platfrom-v2/_files/file_1746707185577_1confirmedphoto.png",
+      liveUrl: "https://1cnfrmd-front.vercel.app/",
+      githubUrl: "https://github.com/eayzex/1cnfrmd-front"
+    },
+    {
       title: "MorocStay - Hotel Booking Platform",
       description: "MorocStay is a smart and seamless hotel booking platform designed to connect travelers with the best stays across Morocco. Whether you're planning a luxurious getaway, a family vacation, or a spontaneous weekend escape, MorocStay offers a curated selection of accommodations to suit every style and budget.",
       technologies: ["ReactVite", "TypeScript", "NodeJs", "Express", "MongoDB", ],
