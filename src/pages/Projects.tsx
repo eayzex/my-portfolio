@@ -24,7 +24,7 @@ const Projects = () => {
     {
       title: "MorocStay - Hotel Booking Platform",
       description: "MorocStay is a smart and seamless hotel booking platform designed to connect travelers with the best stays across Morocco. Whether you're planning a luxurious getaway, a family vacation, or a spontaneous weekend escape, MorocStay offers a curated selection of accommodations to suit every style and budget.",
-      technologies: ["Vue.js", "Chart.js", "Weather API", "Sass"],
+      technologies: ["ReactVite", "TypeScript", "NodeJs", "Express", "MongoDB", ],
       image: "https://i.imgur.com/zFDRGsA.png",
       liveUrl: "https://hotels-booking-vg4f.vercel.app/login",
       githubUrl: "https://github.com/eayzex/hotels-booking-.git",
