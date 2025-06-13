@@ -24,7 +24,7 @@ const Projects = () => {
     {
       title: "1 CONFIRMED - Independent web platform",
       description: "1CONFIRMED is a dedicated independent web platform tailored for hotel bookings in Morocco. It offers travelers a seamless and intelligent experience to discover and reserve accommodations that suit all preferences—from luxury resorts to budget-friendly options.",
-      technologies: ["React", "Vite", "TypeScript", "Node.js", "Express", "MongoDB"],
+      technologies: ["Next", "TypeScript", "Node.js", "Express", "MongoDB"],
       image: "https://screendy-cdn.fra1.cdn.digitaloceanspaces.com/platfrom-v2/_files/file_1746707185577_1confirmedphoto.png",
       liveUrl: "https://1cnfrmd-front.vercel.app/",
       githubUrl: "https://github.com/eayzex/1cnfrmd-front"
